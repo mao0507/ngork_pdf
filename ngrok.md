@@ -34,7 +34,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 <!-- _class: lead -->
 ###### 先進入到 [ngrok官網](https://ngrok.com/)
 
-![width:900px](1.png)
+![width:900px](img/1.png)
 
 ---
 
@@ -45,7 +45,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 有帳號可以直接登入，或是直接使用 google / github 來連接帳號啟用
 
-![width:250px](2.png )
+![width:250px](img/2.png )
 
 
 ---
@@ -55,7 +55,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 登入後，會進到ngrok的後台
 
-![width:1000px](3.png)
+![width:1000px](img/3.png)
 
 ---
 
@@ -66,7 +66,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 這邊以windows 作業環境為主
 
-![width:1000px](4.png)
+![width:1000px](img/4.png)
 
 ---
 
@@ -77,7 +77,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 打開 `設定/系統/關於/進階系統設定`
 
-![width:950px](5.png)
+![width:950px](img/5.png)
 
 ---
 
@@ -86,7 +86,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 點選 進階/ 環境變數
 
-![width:500px](6.png )
+![width:500px](img/6.png )
 
 ---
 <!--_paginate: true-->
@@ -94,7 +94,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 選擇 Path  並點選編輯
 
-![width:650px](7.png )
+![width:650px](img/7.png )
 
 ---
 
@@ -103,7 +103,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 點選右側新增，並加入 `C:\Program Files\ngrok`
 
-![width:600px](8.png )
+![width:600px](img/8.png )
 
 ---
 
@@ -112,7 +112,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 打開終端機，並輸入 `ngrok`
 
-![width:1000px](9.png )
+![width:1000px](img/9.png )
 
 ---
 
@@ -121,7 +121,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ###### 有出現內容，表示已經安裝成功
 
-![width:1000px](10.png )
+![width:1000px](img/10.png )
 
 ---
 
@@ -132,7 +132,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ##### 複製下方指令 並輸入終端機 
 
-![width:1200px](11.png )
+![width:1200px](img/11.png )
 
 ---
 
@@ -140,7 +140,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 <!-- _class: lead -->
 
 ###### 有出現這段文字，表示已經連線成功了
-![width:1200px](12.png)
+![width:1200px](img/12.png)
 
 ---
 
@@ -157,7 +157,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ##### 1.在本地開啟服務，假設服務位置為 `http://localhost:5173`
 ##### 2.打開終端機 並輸入 `ngrok http 5173` 
 ##### 出現此畫面表示已經成功開啟 ngrok 並且已經正在運行
-![width:1000px](13.png )
+![width:1000px](img/13.png )
 
 ---
 
@@ -166,7 +166,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 
 ##### 接著將 `Forwarding` 這段的網址 貼到瀏覽器上
 
-![width:800px](14.png )
+![width:800px](img/14.png )
 
 ##### 按下 `Vite Site` 按鈕
 
@@ -178,7 +178,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 <!--_paginate: true-->
 <!-- _class: lead -->
 
-##### 如果是vue專案環境]
+##### 如果是vue專案環境
 ##### 需要給devServer加入設定
 
 
